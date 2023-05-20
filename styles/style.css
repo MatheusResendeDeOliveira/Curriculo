@@ -185,4 +185,8 @@ body {
     .apresentacao__Curriculo {
         flex-direction: column-reverse;
     }
+
+    .apresentacao__Curriculo__informacoes {
+        width: auto;
+    }
 }
